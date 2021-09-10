@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/larrymyers/jasmine-reporters.svg?branch=master)](https://travis-ci.org/larrymyers/jasmine-reporters)
 
+
 This branch is for Jasmine 2.x.
 [Switch to the 1.x branch.](https://github.com/larrymyers/jasmine-reporters/tree/jasmine1.x)
 
